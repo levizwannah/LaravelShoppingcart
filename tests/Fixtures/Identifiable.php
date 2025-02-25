@@ -1,8 +1,8 @@
 <?php
 
-namespace Gloudemans\Tests\Shoppingcart\Fixtures;
+namespace LeviZwannah\Tests\Shoppingcart\Fixtures;
 
-use Gloudemans\Shoppingcart\Contracts\InstanceIdentifier;
+use LeviZwannah\Shoppingcart\Contracts\InstanceIdentifier;
 
 class Identifiable implements InstanceIdentifier
 {

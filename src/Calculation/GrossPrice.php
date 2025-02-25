@@ -1,9 +1,9 @@
 <?php
 
-namespace Gloudemans\Shoppingcart\Calculation;
+namespace LeviZwannah\Shoppingcart\Calculation;
 
-use Gloudemans\Shoppingcart\CartItem;
-use Gloudemans\Shoppingcart\Contracts\Calculator;
+use LeviZwannah\Shoppingcart\CartItem;
+use LeviZwannah\Shoppingcart\Contracts\Calculator;
 
 class GrossPrice implements Calculator
 {
